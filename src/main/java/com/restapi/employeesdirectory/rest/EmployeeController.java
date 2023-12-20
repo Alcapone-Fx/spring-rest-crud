@@ -1,6 +1,5 @@
 package com.restapi.employeesdirectory.rest;
 
-import com.restapi.employeesdirectory.dao.EmployeeDAO;
 import com.restapi.employeesdirectory.entity.Employee;
 import com.restapi.employeesdirectory.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
